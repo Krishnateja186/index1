@@ -1,0 +1,1 @@
+cd amazon-simple-page
